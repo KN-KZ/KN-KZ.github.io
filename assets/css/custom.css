@@ -1,0 +1,24 @@
+html,body {
+	background-color: #f2f2f2;
+}
+
+#resume {
+	background-color: white;
+}
+
+.bolded {
+	font-weight: bold;
+}
+.italicized {
+	font-style: italic;
+}
+
+#personal-info {
+	margin: auto;
+	padding: auto;
+}
+
+#pp-div {
+	margin-right: 0px;
+	padding-right: 0px;
+}

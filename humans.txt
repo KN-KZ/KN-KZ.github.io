@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: Kaan Kurutmaz
+    Contact: kurutmaz.kaan@gmail.com
+    From: Turkey
+
+# THANKS
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, mini.css, Feather Icons
